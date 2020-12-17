@@ -1,0 +1,4 @@
+#Thu Dec 17 22:25:03 MSK 2020
+base.0=C\:\\games\\project\\taxi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

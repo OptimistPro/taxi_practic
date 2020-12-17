@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_signup.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_fon.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable-v24\\fon.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\layout_splashlayout.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\layout\\splashlayout.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_mail.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable-v24\\mail.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_startmap.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\layout\\activity_startmap.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_signin.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_login.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable-v24\\login.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable_text.xml.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable\\text.xml"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_start.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable-v24\\start.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_password.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\drawable-v24\\password.png"
+    },
+    {
+        "merged": "C:\\games\\project\\taxi\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\games\\project\\taxi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
